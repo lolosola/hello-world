@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Hola me llamo lolo y tengo 17 años
